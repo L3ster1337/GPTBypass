@@ -26,4 +26,8 @@ Generating generic ransomware with Golang:
 
 ![GPT-2](https://github.com/L3ster1337/GPTBypass/assets/44538226/b8f642b6-9b11-48a7-89a2-47e1c1df4d2d)
 
+# Caution
 
+You should be careful, do not use it for terrorist purposes, do not be senseless.
+
+If you have any kind of problem, text me on Discord: L3ster#0001 (L3ster#l3ster if it doesn't work, don't remember my user xD)
